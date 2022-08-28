@@ -52,8 +52,7 @@ function Header() {
       currency: data.currency,
       amount: data.amount,
       order_id: data.id,
-      description:
-        "Thankyou for your test donation",
+      description: "Buy me a coffee",
       image: "",
       handler: function (response) {
         // Validate payment at server - using webhooks is a better idea.
