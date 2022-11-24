@@ -22,7 +22,6 @@ export default function Home() {
       <div className="bg-fastletterbg h-screen w-full">
         <Header />
         <Banner />
-        <Footer />
       </div>
     </div>
   );

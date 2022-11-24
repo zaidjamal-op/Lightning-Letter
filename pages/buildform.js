@@ -23,7 +23,6 @@ function BuildForm() {
       <div className="bg-fastletterbg h-full w-full">
         <Header />
         <Form />
-        <Footer />
       </div>
     </div>
   );
